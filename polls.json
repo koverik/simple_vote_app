@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "question": "What is your favorite programming language?",
+      "options": ["JavaScript", "Python", "Java", "C#"],
+      "expiresAt": "2024-09-30T23:59:59Z"
+    },
+    {
+      "id": 2,
+      "question": "Which operating system do you use?",
+      "options": ["Windows", "macOS", "Linux"],
+      "expiresAt": "2024-10-10T23:59:59Z"
+    }
+  ]
+  
